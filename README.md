@@ -1,2 +1,2 @@
 # Chatbot
-This is a begineer level chatbot made using 
+This is a begineer level chatbot made with hugging face model 
